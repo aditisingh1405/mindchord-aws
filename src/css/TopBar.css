@@ -1,0 +1,27 @@
+.TopBar {
+    padding: 5px 50px;
+    background-color: black;
+}
+
+.Logo {
+    color: white;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navbar {
+    background-color: black!important;
+}
+
+.navlink {
+    font-size: 20px;
+    padding: 6px 20px;
+    height: 45px;
+    text-align: center;
+    color: white;
+}
+
+.navlink:hover{
+    background-color: rgb(47, 46, 46);
+    transition: 0.5s ease;
+}

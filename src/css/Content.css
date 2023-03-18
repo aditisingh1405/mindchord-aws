@@ -1,0 +1,28 @@
+.media-text {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.survey-btn {
+    color: rgb(250, 120, 130)!important;
+    background-color: white!important;
+    border-color: rgb(250, 120, 130)!important;
+    width: 200px;
+    margin-top: 10px;
+    font-size: 18px!important;
+}
+
+.survey-btn:hover {
+    background-color: rgb(250, 120, 130)!important;
+    color: white!important;
+}
+
+ul {
+    margin-top: 30px!important;
+}
+
+li {
+    padding: 5px;
+    font-size: 20px;
+    font-style: italic;
+}

@@ -1,0 +1,51 @@
+#survey-backg {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 50px 400px;
+    min-height: 93.35vh;
+}
+
+.survey {
+    padding: 50px 100px;
+    background-color: white;
+    font-size: 24px;
+    text-align: left;
+    margin: 200px 0px;
+}
+
+.Survey .row {
+    padding: 50px;
+}
+
+.Survey .submit-btn {
+    max-width: 100px!important;
+    font-size: 18px!important;
+}
+
+.scorecard {
+    padding: 50px 100px;
+    background-color: white;
+    font-size: 24px;
+}
+
+input[type=radio] {
+    width: 23px;
+    height: 23px;
+    display: block;
+    margin: 0 auto;
+}
+
+label {
+    display: inline-block;
+    padding: 20px;
+}
+
+.options {
+    max-width: 625px!important;
+}
+
+.CircularProgressbar {
+    width: 50%!important;
+}

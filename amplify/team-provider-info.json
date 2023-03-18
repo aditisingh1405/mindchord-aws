@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mindchord-dev-200208-authRole",
+      "UnauthRoleArn": "arn:aws:iam::923101740173:role/amplify-mindchord-dev-200208-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::923101740173:role/amplify-mindchord-dev-200208-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mindchord-dev-200208-deployment",
+      "UnauthRoleName": "amplify-mindchord-dev-200208-unauthRole",
+      "StackName": "amplify-mindchord-dev-200208",
+      "StackId": "arn:aws:cloudformation:us-east-1:923101740173:stack/amplify-mindchord-dev-200208/854f28a0-bb62-11ed-98bf-0a29fb5165e9",
+      "AmplifyAppId": "d1nz5h4mul4c3o"
+    },
+    "categories": {
+      "api": {
+        "mindchord": {}
+      },
+      "auth": {
+        "mindchordfcc2550e": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1nz5h4mul4c3o",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
